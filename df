@@ -1,0 +1,67 @@
+*   [33mcommit b0f0c70e7c4c9fd6703cce581fea018d33cc757b[m[33m ([m[1;36mHEAD -> [m[1;32mnuevo[m[33m)[m
+[31m|[m[32m\[m  Merge: 21d69a2 5321535
+[31m|[m [32m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[31m|[m [32m|[m Date:   Tue Apr 28 18:16:59 2020 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' of https://github.com/oscrislas/git-practice into nuevo
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 5321535b75043b21894f502bf7e36f028a40078f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m [32m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[31m|[m [32m|[m Date:   Tue Apr 28 16:18:36 2020 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     sube!
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 12fbec50f878fbc146627c9d0e6f3749ab683a1c[m
+[31m|[m   Author: oscrislas <oscar.islas@uabc.edu.mx>
+[31m|[m   Date:   Tue Apr 28 12:59:11 2020 -0700
+[31m|[m   
+[31m|[m       Initial commit
+[31m|[m 
+* [33mcommit 21d69a2327daa5a33523a8e6b15d3460a9b29a38[m[33m ([m[1;31morigin/nuevo[m[33m, [m[1;32morigin[m[33m)[m
+[32m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[32m|[m Date:   Tue Apr 28 14:50:46 2020 -0700
+[32m|[m 
+[32m|[m     primer commit de repositorio remoto
+[32m|[m   
+*   [33mcommit f02f56a5a3c1bc24e3f9438fbb5c9a471466f75a[m[33m ([m[1;32moscar[m[33m)[m
+[33m|[m[34m\[m  Merge: b157658 44ab323
+[33m|[m [34m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[33m|[m [34m|[m Date:   Tue Apr 28 13:50:24 2020 -0700
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'rama1' into oscar
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 44ab32367e7ee22df7dfc0f7fd5bee2a923f9ca9[m[33m ([m[1;32mrama1[m[33m)[m
+[33m|[m [34m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[33m|[m [34m|[m Date:   Tue Apr 28 11:01:28 2020 -0700
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     esta bien
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit d52cddb2d6ef38151b5e2fc979a1cd40ffe96c8b[m
+[33m|[m [34m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[33m|[m [34m|[m Date:   Tue Apr 28 10:54:24 2020 -0700
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     agrego cambio
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 24c86bf5e4c47b90f3baea43f6fa801b90c977ba[m
+[33m|[m [34m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[33m|[m [34m|[m Date:   Tue Apr 28 10:51:55 2020 -0700
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     agrego contenido
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit b1576580ced718f6a3ed76ddc6200e60e6cfdf5b[m
+[34m|[m [34m|[m Author: oscar islas <oscar.islas@uabc.edu.mx>
+[34m|[m [34m|[m Date:   Tue Apr 28 13:49:53 2020 -0700
+[34m|[m [34m|[m 
+[34m|[m [34m|[m     se iso merge
+[34m|[m [34m|[m 
+* [34m|[m [33mcommit fca4afde1ce22dc8e415fb6811d350005fe4c01d[m
+[34m|[m[34m/[m  Author: oscar islas <oscar.islas@uabc.edu.mx>
+[34m|[m   Date:   Tue Apr 28 13:20:21 2020 -0700
+[34m|[m   
+[34m|[m       subi oscar
+[34m|[m 
+* [33mcommit 3df3b5c1e9081cd790b68eb7d2b113885a054217[m[33m ([m[1;32mislas[m[33m)[m
+  Author: oscar islas <oscar.islas@uabc.edu.mx>
+  Date:   Tue Apr 28 10:49:56 2020 -0700
+  
+      primer archivo
